@@ -1,4 +1,4 @@
-This repository is related to blog post "Status notifier app powered by Philips Hue lights" - https://devaaja.fi/blog/status-notifier-app-powered-by-philips-hue-lights
+This repository is related to blog post "Status notifier app powered by Philips Hue lights" - https://www.kallemarjokorpi.fi/blog/status-notifier-app-powered-by-philips-hue-lights
 
 This solution contains the following .NET Core console applications. Q42.HueApi and SlackNet nuget packages were used in the API communication.
 
